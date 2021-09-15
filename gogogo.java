@@ -27,10 +27,11 @@ public class gogogo {
 		}
 		System.out.println();
 
-		System.out.println("Non numbers: are 3 ");
+		
 		for (String s : nonNumbers) {
 			System.out.print(s + ",");
 		}
+		System.out.println("Non numbers:");
 
 	}
 
