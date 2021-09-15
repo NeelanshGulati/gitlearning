@@ -31,7 +31,7 @@ public class gogogo {
 		for (String s : nonNumbers) {
 			System.out.print(s + ",");
 		}
-		System.out.println("Non numbers:");
+		System.out.println("Non numbers 4:");
 
 	}
 
